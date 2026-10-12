@@ -9,6 +9,8 @@
 I’m a **Full-Stack + AI Engineer** from 🇩🇴 Dominicana who loves to build things that feel *alive*:  
 agentic systems, smart apps, automation pipelines, and high-performance platforms.
 
+I'm working with Kake for a Frontier lab.
+
 I focus on **learning by building**, pushing ideas from draft → prototype → real users.
 
 I’m currently working at **JobCity (California)** while building my own products on the side.
