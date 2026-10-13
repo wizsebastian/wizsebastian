@@ -1,58 +1,40 @@
-<!-- Neon Cyberpunk Header -->
+<h1 align="center">Luis Sebastián Vásquez</h1>
+
+<p align="center"><b>Full-stack and AI engineer</b> · Dominican Republic<br>I build agentic systems, evaluation pipelines and the platforms around them.</p>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3500&pause=800&color=0FF3E9&center=true&vCenter=true&width=800&lines=Hi,+I'm+Luis+Sebastián+Vásquez;AI-Driven+Engineer+%7C+Full-Stack+Builder;React+%7C+Next.js+%7C+Node.js+%7C+Python+%7C+AWS;I+build+automations,+agents+and+smart+systems." />
+  <img src="https://img.shields.io/badge/Kake-Full%20Time%20Engineer-0FF3E9?style=for-the-badge&labelColor=0d1117" alt="Kake, full time engineer" />
+  <img src="https://img.shields.io/badge/Toloka-Coding%20Agent%20Evals-FF2E93?style=for-the-badge&labelColor=0d1117" alt="Toloka, coding agent evaluation" />
 </p>
 
----
+> [!IMPORTANT]
+> **2026 · Kake × Toloka.** Full-time engineer on a coding-agent evaluation project. I designed and validated tasks that measure how well AI agents work in real terminal environments: reproducible Docker harnesses, verifiable tests, and difficulty calibrated against real model runs.
 
-## 🔮 About Me — *The Builder Mindset*
-I’m a **Full-Stack + AI Engineer** from 🇩🇴 Dominicana who loves to build things that feel *alive*:  
-agentic systems, smart apps, automation pipelines, and high-performance platforms.
+## What I do
 
-I'm working with Kake for a Frontier lab.
+| | |
+|---|---|
+| 🧪 **Terminal-Bench** | Task design for the Terminal-Bench coding benchmark: seeds, Docker harnesses, verifiable tests, difficulty calibration and anti-cheat checks |
+| 🔬 **Evaluating AI** | Verifiable tasks and tests for coding agents; difficulty measurement; catching reward hacking before it ships |
+| 🤖 **Agents and AI systems** | Multi-agent orchestration on AWS Lambda and Bedrock; embeddings, vector search and OCR; LLM automation for business workflows |
+| 🌐 **Full-stack** | React and Next.js; Node.js, FastAPI and Python; real-time APIs, microservices, serverless |
+| 📱 **Mobile** | React Native apps for business productivity; local-first and offline-ready |
 
-I focus on **learning by building**, pushing ideas from draft → prototype → real users.
+## Projects
 
-I’m currently working at **JobCity (California)** while building my own products on the side.
+- 📊 **LabX Assessor**: automated startup evaluator on Bedrock agents, Titan embeddings and DynamoDB
+- 🗺️ **Trix GeoManager**: geospatial admin platform
+- 💐 **Good Morning Details**: product catalog with automation
+- 🧠 **Local AI experiments** on a single RTX 4070
 
----
+## Stack
 
-## ⚡ Tech Stack — *My Tools of Creation*
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,python,fastapi,aws,dynamodb,sqlite,mysql,tailwind,ts,js,linux,git,docker" />
+<p>
+  <img src="https://img.shields.io/badge/Terminal--Bench-Task%20Design-0FF3E9?style=flat-square&labelColor=0d1117" alt="Terminal-Bench task design" />
 </p>
 
----
+<p>
+  <img src="https://skillicons.dev/icons?i=python,ts,react,nextjs,nodejs,fastapi,aws,docker,linux,git&perline=10" alt="Python, TypeScript, React, Next.js, Node.js, FastAPI, AWS, Docker, Linux, Git" />
+</p>
 
-## 🚀 What I Build
-### **🧠 AI Systems & Agents**
-- Multi-agent orchestration (AWS Lambda + Bedrock)  
-- Document evaluation pipelines (embeddings, vector DBs, OCR)
-- LLM-powered automation for business workflows  
-
-### **🌐 Full-Stack Apps**
-- React / Next.js frontends  
-- Node.js / FastAPI / Python backends  
-- Real-time APIs, microservices, serverless architecture  
-
-### **📱 Mobile & Cross-Platform**
-- React Native apps for business productivity  
-- Local-first and offline-ready designs
-
-### **👨‍💻 Side Projects**
-- 💐 Good Morning Details – catalog + automation  
-- 🗺️ Trix GeoManager – geospatial admin platform  
-- 📊 LabX Assessor – automated startup evaluator  
-- 🤖 Local AI experiments using GPU (RTX 4070)
-
----
-
-## 🏙️ Cyberpunk Developer Timeline
-```md
-2016 → First lines of code  
-2018 → Full-Stack bootstrapping  
-2020 → Banking systems developer (APAP)  
-2021 → React + Microfrontends + Python  
-2023 → Diving into AI & ML  
-2024 → AWS, Bedrock, Agents, Evaluators  
-2025 → AI-Driven Engineer @ JobCity + Startup Builder
+<sub>2016 first code · 2020 banking systems (APAP) · 2021 React, microfrontends, Python · 2023 AI and ML · 2024 AWS, Bedrock, agents · 2025 AI-driven engineer · 2026 Kake × Toloka</sub>
